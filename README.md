@@ -1,7 +1,7 @@
 jku-stridercd Cookbook
 ==================
 
-Installs jku-stridercd (http://jku-stridercd.com/) and does the initial configuration.
+Installs StriderCD (https://strider-cd.github.io/) and does the initial configuration.
 
 Requirements
 ------------
