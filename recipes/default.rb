@@ -27,7 +27,7 @@ user node['jku-stridercd']['system-user'] do
   home "/home/#{node['jku-stridercd']['system-user']}"
   shell '/bin/bash'
   manage_home true
-  # password '$1$JJsvHslasdfjVEroftprNn4JHtDi'
+  password 'your_password_here'
 end
 
 # Install Strider from npm
